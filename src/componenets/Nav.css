@@ -1,0 +1,43 @@
+.Navbar
+{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: black;
+    row-gap: 2px;
+    column-gap: 2px;
+    /* font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    /* margin-left: 500px;   */
+    /* flo   */ 
+    
+    
+}
+.Profile
+{
+    display: flex;
+    align-items: center;
+   
+    justify-content: flex-end;
+
+}
+img{
+    border-radius: 50%;
+    height: 50px;
+    width: 50px;
+}
+.Header
+{
+    display:flex;
+    justify-content: space-between;
+    /* align-items: s; */
+    background-color: blueviolet;
+}
+.Title
+{
+    display: flex;
+    justify-content: flex-start;
+    color: rgb(208, 220, 32);
+    margin-top: 10px;
+    margin-left: 30px;
+}
